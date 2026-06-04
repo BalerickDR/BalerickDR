@@ -9,12 +9,12 @@ Lo que más disfruto no es solo que el código funcione — es entender por qué
 
 ## Encuentrame en:
 
-[![LinkedIn](../BalerickDR/assets/DiegoRevollo_LN.png)](https://www.linkedin.com/in/diego-fernando-revollo-garcia-45b106402/)
-</br>
+[![LinkedIn](assets/DiegoRevollo_LN.png)](https://www.linkedin.com/in/diego-fernando-revollo-garcia-45b106402/)
+<br>
 
-[![Instagram](../BalerickDR/assets/DiegoRevollo_IN.png)](https://www.instagram.com/revollo_fernando_/)
-</br>
+[![Instagram](assets/DiegoRevollo_IN.png)](https://www.instagram.com/revollo_fernando_/)
+<br>
 
-[![Facebook](../BalerickDR/assets/DiegoRevollo_FB.png)](https://www.facebook.com/fernando.revollo.39/)
-</br>
+[![Facebook](assets/DiegoRevollo_FB.png)](https://www.facebook.com/fernando.revollo.39/)
+<br>
 
