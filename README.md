@@ -10,14 +10,15 @@ Lo que más disfruto no es solo que el código funcione — es entender por qué
 ## Encuentrame en:
 
 <a href="https://www.linkedin.com/in/diego-fernando-revollo-garcia-45b106402/">
-  <img src="assets/DiegoRevollo_LN.png" alt="LinkedIn" width="40">
+  <img src="assets/DiegoRevollo_LN.png" alt="LinkedIn" width="150">
 </a>
+<br>
 
 <a href="https://www.instagram.com/revollo_fernando_/">
-  <img src="assets/DiegoRevollo_IN.png" alt="Instagram" width="40">
+  <img src="assets/DiegoRevollo_IN.png" alt="Instagram" width="150">
 </a>
-
 <br>
+
 <a href="https://www.facebook.com/fernando.revollo.39/">
-  <img src="assets/DiegoRevollo_FB.png" alt="Facebook" width="40">
+  <img src="assets/DiegoRevollo_FB.png" alt="Facebook" width="150">
 </a>
