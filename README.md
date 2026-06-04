@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, Mi nombre es Diego Revollo
+### Freelance Backend and Videogame Developer
 
-<!--
-**BalerickDR/BalerickDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy ingeniero en Sistemas aun en formacion desde el 2023.
 
-Here are some ideas to get you started:
+Trabajo principalmente con Java y Python, tengo base sólida en HTML/CSS y JavaScript, y estoy profundizando en React. Descrubre mas acerca de mi y mi trabajo en [MiPortafolio](https://github.com/BalerickDR/BalerickDR#hi-there-) (Aun en consctruccion).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lo que más disfruto no es solo que el código funcione — es entender por qué tiene que funcionar así, y poder explicárselo a alguien que no escribe código.
+
+## Encuentrame en:
+
+[![LinkedIn](https://www.linkedin.com/in/diego-fernando-revollo-garcia-45b106402/)]
+</br>
+
+[![Instagram](https://www.instagram.com/revollo_fernando_/)]
+</br>
+
+[![Facebook](https://www.facebook.com/fernando.revollo.39/)]
+</br>
+
